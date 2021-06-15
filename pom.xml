@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus-snapshots</id>
 	      <name>Snapshot Nexus Repository</name>
-	      <url>http://18.217.126.222:8082/repository/demo-snapshot/</url>
+	      <url>http://18.217.16.186:8082/repository/demo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
